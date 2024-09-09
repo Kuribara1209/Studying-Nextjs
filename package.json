@@ -31,7 +31,7 @@
     "@types/react-dom": "18.3.0"
   },
   "engines": {
-    "node": "20.12.0"
+    "node": "20"
   },
   "packageManager": "pnpm@8.6.0"
 }
